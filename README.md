@@ -16,9 +16,6 @@
 * 构建工具
   * Webpack
   * Gulp
-* CI/CD/自动化
-  * Gitlab
-  * jenkins
 
 ### 项目图片演示
 
